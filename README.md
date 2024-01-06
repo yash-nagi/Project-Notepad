@@ -19,12 +19,11 @@ https://github.com/yash-nagi/Project-Notepad/assets/121717388/eba459ef-d2b4-4ba1
 <h1>Preview</h1>
 <img src ="https://github.com/yash-nagi/Project-Notepad/assets/121717388/aa7a888b-9507-48dc-aeae-5989f2f516dd"><br>
 <img src = "https://github.com/yash-nagi/Project-Notepad/assets/121717388/d8a2d03d-d988-4ca1-aef4-b7448747dac7">
-![Notepad1](https://github.com/yash-nagi/Project-Notepad/assets/121717388/aa7a888b-9507-48dc-aeae-5989f2f516dd)<br>
-![Notepad2](https://github.com/yash-nagi/Project-Notepad/assets/121717388/d8a2d03d-d988-4ca1-aef4-b7448747dac7)
+
 <br>
 >> C# based Notepad with Stack type clipboard to keep multiple strings in clipboard.<br>
 >> Graphical User Interface made by Windows Form .Net Framework.<br>
->> A menu bar with follwing menus
+>> A menu bar with follwing menus:
 <ul>
         <li>File handling (New , New Window, Open , Save, Save As ,Print, Exit)</li>
         <li>Editing options (Cut , Copy , Paste, Delete, Select All, Date/Time)</li>
