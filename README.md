@@ -30,4 +30,4 @@ https://github.com/yash-nagi/Project-Notepad/assets/121717388/eba459ef-d2b4-4ba1
 </ul>
 <h1>Author</h1>
 
-@yashnagi
+@yash-nagi
