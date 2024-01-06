@@ -17,6 +17,8 @@ https://github.com/yash-nagi/Project-Notepad/assets/121717388/eba459ef-d2b4-4ba1
 </ul>
 <br>
 <h1>Preview</h1>
+<img src ="https://github.com/yash-nagi/Project-Notepad/assets/121717388/aa7a888b-9507-48dc-aeae-5989f2f516dd"><br>
+<img src = "https://github.com/yash-nagi/Project-Notepad/assets/121717388/d8a2d03d-d988-4ca1-aef4-b7448747dac7">
 ![Notepad1](https://github.com/yash-nagi/Project-Notepad/assets/121717388/aa7a888b-9507-48dc-aeae-5989f2f516dd)<br>
 ![Notepad2](https://github.com/yash-nagi/Project-Notepad/assets/121717388/d8a2d03d-d988-4ca1-aef4-b7448747dac7)
 <br>
